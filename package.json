@@ -1,6 +1,6 @@
 {
   "name": "big-collection-view",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ampersand.js View",
   "main": "index.js",
   "scripts": {
