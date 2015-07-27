@@ -15,7 +15,7 @@
   ],
   "author": "Valentin Vago <zeropaper@irata.ch>",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/zeropaper/big-collection-view#readme",
+  "homepage": "https://github.com/zeropaper/big-collection-view",
   "devDependencies": {
     "ampersand-collection": "^1.4.5",
     "ampersand-state": "^4.5.6",
